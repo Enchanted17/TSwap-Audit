@@ -1,3 +1,6 @@
+# Audited by Enchanted17, see ./audit
+# Ottober 19, 2025
+
 <p align="center">
 <img src="./images/t-swap-youtube-dimensions.png" width="400" alt="t-swap">
 <br/>
