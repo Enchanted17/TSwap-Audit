@@ -1,4 +1,4 @@
-# Audited by Enchanted17, see ./audit
+# Audited by Enchanted17
 # Ottober 19, 2025
 
 <p align="center">
